@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body {
-	font-family:"游明朝","Noto Sans Japanese","sans-serif","游ゴシック","ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-family:"Noto Serif JP", serif,"游明朝","Noto Sans Japanese","sans-serif","游ゴシック","ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	font-size:1.2rem;
 	line-height:1.3;
 }
