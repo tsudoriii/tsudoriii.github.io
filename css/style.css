@@ -110,7 +110,7 @@
     margin: 120px 0 120px 120px;
     background: #FFF;
     padding: 80px 60px 80px 80px;
-    background-image: url(../image/img1.jpg);
+    background-image: url(../image/img1.JPG);
     background-position: center;
     background-size: cover;
 }
@@ -174,7 +174,7 @@
 
 /*line*/
 #line {
-	background: url("../image/img3.jpg") repeat fixed center center;
+	background: url("../image/img3.JPG") repeat fixed center center;
     background-size: cover;
 	position:relative;
 	width:100%;
@@ -532,6 +532,9 @@ font-size: 1rem;
 		position: unset;
     	color: #000;
     }
+    .meassege {
+        float: left
+    }
 	.pc_nav {
 	    padding: 10px 0;
 	}
@@ -546,7 +549,7 @@ font-size: 1rem;
 	}
     
     #home .title,#feature h2,.box a {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 
 	#address a img {
@@ -576,6 +579,7 @@ font-size: 1rem;
         width:100%;
         height: auto;
         font-size:1.0rem;
+        font-family:"游明朝","Noto Sans Japanese","sans-serif","游ゴシック","ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
     }
 	#bars {
         display: block;
@@ -734,10 +738,10 @@ font-size: 1rem;
     }
     .corona {
         width:95%;
-        font-size:0.8rem;
+        font-size:0.7rem;
     }
     .pick h3 {
-        width:25%;
+        width:33%;
     }
     .up img {
         width:100%;
