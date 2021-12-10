@@ -711,7 +711,7 @@ font-size: 1rem;
 	}
     .about_image {
         width:60%;
-        height:80vw;
+        height:50vw;
     }
     .about_main {
         margin:80px 0 0 0;
@@ -720,10 +720,10 @@ font-size: 1rem;
         width:30%;
         height:45vw;
     }
-	.about_image img {
+	/*.about_image img {
 		width: max-content;
 		height: 100%;
-	}
+	}*/
     .about_title h2 {
         margin: 0 0 0 60px;
     }
