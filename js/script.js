@@ -96,7 +96,7 @@ CountdownTimer.prototype = {
 	}
 	function CDT() {
 	var tl = new Date('2021/12/10 00:00:00');// ここで日付を指定
-	var timer = new CountdownTimer('CDT', tl, '開催中！');
+	var timer = new CountdownTimer('CDT', tl, 'ご来場ありがとうございました！');
 	timer.countDown();
 	}
 

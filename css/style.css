@@ -547,6 +547,7 @@ font-size: 1rem;
     .meassege {
         float: left;
         margin-bottom: 60px;
+		padding: 0 0 0 5%;
     }
 	.pc_nav {
 	    padding: 10px 0;
@@ -726,7 +727,11 @@ font-size: 1rem;
 	}*/
     .about_title h2 {
         margin: 0 0 0 60px;
+		font-size: 1.4rem;
     }
+	.meassege h2 {
+		margin-left: 0;
+	}
     .sns_caption {
         width:100%;
         float:none;
@@ -754,7 +759,7 @@ font-size: 1rem;
         font-size:0.7rem;
     }
     .pick h3 {
-        width:33%;
+        width:34%;
     }
     .up img {
         width:100%;
@@ -770,4 +775,7 @@ font-size: 1rem;
         float: none;
         margin: 60px 0 0 0;
     }
+	.caption h2, .meassege h2, .access h2,.pick h3 {
+		font-size: 1.4rem;
+	}
 }
